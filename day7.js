@@ -54,6 +54,15 @@ const compareHand = (strOne,strTwo)=>{
     let handOne = 0;
     let handTwo = 0;
 
+    let five = /A{5}|K{5}|Q{5}|J{5}|T{5}|9{5}|8{5}|7{5}|6{5}|5{5}|4{5}|3{5}|2{5}/g; 
+    let four = /A{4}|K{4}|Q{4}|J{4}|T{4}|9{4}|8{4}|7{4}|6{4}|5{4}|4{4}|3{4}|2{4}/g;
+    let full = 
+    let three = 
+    let two = 
+    let one =
+    let high = 
+    
+
     //figure out the type of each hand 
 
 
